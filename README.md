@@ -46,7 +46,3 @@ The project includes:
 - Markov Chain Monte Carlo (MCMC)
 - Spatial Data Analysis
 - ggplot2
-
-MSc in Mathematical Engineering
-
-Politecnico di Torino
